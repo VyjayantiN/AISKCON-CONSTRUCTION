@@ -10,12 +10,12 @@ At AISKCON Construction, our mission is to assist people with their construction
 
 The following technologies were utilized in building this website:
 
-**Front-End:**
+**Front End:**
 - HTML
 - CSS
 - JavaScript
 
-**Back-End:**
+**Back End:**
 - Node.js
 
 **Useful Extensions:**
